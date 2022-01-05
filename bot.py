@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from PIL import Image
 from discord.ext import commands
 from emojify import emojify_image
-import requests
+import requests # It's not blocking, you can use aiohttp if you want
 
 bot = commands.Bot(command_prefix="e>")
 
