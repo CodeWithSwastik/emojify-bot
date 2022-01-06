@@ -32,7 +32,7 @@ def distance(c1, c2):
     r2, g2, b2 = c2
     d = ((r2 - r1) ** 2 + (g2 - g1) ** 2 + (b2 - b1) ** 2) ** 0.5
 
-    return d / (255 ** 2 + 255 ** 2 + 255 ** 2) ** 0.5
+    return d
 
 
 def find_closest_emoji(color):
