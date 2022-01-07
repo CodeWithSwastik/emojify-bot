@@ -1,2 +1,2 @@
 ﻿# emojify-bot
-![image](https://user-images.githubusercontent.com/61446939/148185712-cf12e678-36fe-4150-b9e4-4fc3639aca92.png)
+![image](https://user-images.githubusercontent.com/61446939/148486314-c5370d66-365e-4c79-a0d1-69d20298bbb9.png)
